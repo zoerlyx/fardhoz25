@@ -54,12 +54,12 @@ I’m a Software Engineer focused on building practical digital solutions throug
       <h4 align="center">Backend Engineer</h4>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,ts,postgres" height="36" alt="NodeJS TS Postgres" />
+          <img src="https://skillicons.dev/icons?i=nodejs,ts,fastapi" height="36" alt="NodeJS TS FastAPI" />
         </a>
       </p>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=postman,git" height="36" alt="Postman Git" />
+          <img src="https://skillicons.dev/icons?i=postgres,postman,git" height="36" alt="PostgreSQL Postman Git" />
         </a>
       </p>
       <!-- Spacer pembagi lebar penuh -->
@@ -71,11 +71,16 @@ I’m a Software Engineer focused on building practical digital solutions throug
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=python" height="36" alt="Python" />
         </a>
-        <img src="https://api.iconify.design/logos:microsoft-power-bi.svg" width="36" height="36" alt="Power BI" />
+        &nbsp;
         <img src="https://api.iconify.design/logos:pandas-icon.svg" width="36" height="36" alt="Pandas" />
+        &nbsp;
+        <img src="https://api.iconify.design/vscode-icons:file-type-excel.svg" width="36" height="36" alt="Excel" />
       </p>
       <p align="center">
+        <img src="https://api.iconify.design/logos:microsoft-power-bi.svg" width="36" height="36" alt="Power BI" />
+        &nbsp;
         <img src="https://api.iconify.design/vscode-icons:file-type-sql.svg" width="36" height="36" alt="SQL" />
+        &nbsp;
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="PostgreSQL" />
         </a>
