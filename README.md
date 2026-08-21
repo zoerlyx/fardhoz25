@@ -13,7 +13,7 @@ I’m a Software Engineer focused on building practical digital solutions throug
     />
   </a>
   &nbsp;
-  <a href="linkedin.com/in/fardho-zurrahman-6515553a1/">
+  <a href="https://www.linkedin.com/in/fardho-zurrahman-6515553a1/">
     <img
       src="https://img.shields.io/badge/LinkedIn-B7F34A?style=for-the-badge&logo=linkedin&logoColor=111111"
       height="24"
