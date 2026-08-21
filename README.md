@@ -1,6 +1,8 @@
-# Halo
+<h2 align="center">Halo</h2>
 
+<p align="center">
 I’m a Software Engineer focused on building practical digital solutions through software and data. I combine structured engineering with analytical thinking to create reliable, maintainable products, understand problems from the ground up, and turn both code and data into solutions that are clear, efficient, and meaningful.
+</p>
 
 <p align="center">
   <a href="https://github.com/zoerlyx">
@@ -27,99 +29,71 @@ I’m a Software Engineer focused on building practical digital solutions throug
     />
   </a>
 </p>
+<br />
 
-
----
-
-## Expertise
+<h2 align="center">Expertise</h2>
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top" align="center">
-      <h3 align="center">Frontend Engineer</h3>
-      <p>
+    <td width="33%" valign="top" align="center">
+      <h4 align="center">Frontend Engineer</h4>
+      <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML CSS JS TS" />
+          <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="36" alt="HTML CSS JS TS" />
         </a>
       </p>
-      <p>
+      <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,git" alt="React NextJS Tailwind Git" />
+          <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,git" height="36" alt="React NextJS Tailwind Git" />
         </a>
       </p>
-      <!-- Spacer untuk memaksa lebar 50% -->
+      <!-- Spacer pembagi lebar penuh -->
       <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="1000" height="1" />
     </td>
-    <td width="50%" valign="top" align="center">
-      <h3 align="center">Backend Engineer</h3>
-      <p>
+    <td width="33%" valign="top" align="center">
+      <h4 align="center">Backend Engineer</h4>
+      <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,ts,postgres" alt="NodeJS TS Postgres" />
+          <img src="https://skillicons.dev/icons?i=nodejs,ts,postgres" height="36" alt="NodeJS TS Postgres" />
         </a>
       </p>
-      <p>
+      <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=postman,git" alt="Postman Git" />
+          <img src="https://skillicons.dev/icons?i=postman,git" height="36" alt="Postman Git" />
         </a>
       </p>
-      <!-- Spacer untuk memaksa lebar 50% -->
+      <!-- Spacer pembagi lebar penuh -->
+      <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="1000" height="1" />
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h4 align="center">Data Analyst & BI Developer</h4>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python" height="36" alt="Python" />
+        </a>
+        <img src="https://api.iconify.design/logos:microsoft-power-bi.svg" width="36" height="36" alt="Power BI" />
+        <img src="https://api.iconify.design/logos:pandas-icon.svg" width="36" height="36" alt="Pandas" />
+      </p>
+      <p align="center">
+        <img src="https://api.iconify.design/vscode-icons:file-type-sql.svg" width="36" height="36" alt="SQL" />
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="PostgreSQL" />
+        </a>
+      </p>
+      <!-- Spacer pembagi lebar penuh -->
       <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="1000" height="1" />
     </td>
   </tr>
-</table>
-
-<table width="100%">
   <tr>
-    <td width="50%" valign="top" align="center">
-      <h3 align="center">Data Analyst</h3>
-      <p>
+    <td colspan="3" valign="top" align="center">
+      <h4 align="center">Tools & Infrastructure</h4>
+      <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+          <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma" height="36" alt="Git Github Docker Vercel Figma" />
         </a>
-        &nbsp;
-        <img src="https://api.iconify.design/logos:microsoft-power-bi.svg" width="40" height="40" alt="Power BI" />
-        &nbsp;
-        <img src="https://api.iconify.design/logos:pandas-icon.svg" width="40" height="40" alt="Pandas" />
+        <img src="https://cdn.simpleicons.org/railway/0B0D0E" width="36" height="36" alt="Railway" />
       </p>
-      <p>
-        <img src="https://api.iconify.design/vscode-icons:file-type-sql.svg" width="40" height="40" alt="SQL" />
-        &nbsp;
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
-        </a>
-      </p>
-      <!-- Spacer untuk memaksa lebar 50% -->
-      <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="1000" height="1" />
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3 align="center">BI Developer</h3>
-      <p>
-        <img src="https://api.iconify.design/logos:microsoft-power-bi.svg" width="40" height="40" alt="Power BI" />
-        &nbsp;
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
-        </a>
-        &nbsp;
-        <img src="https://api.iconify.design/vscode-icons:file-type-sql.svg" width="40" height="40" alt="SQL" />
-      </p>
-      <!-- Spacer untuk memaksa lebar 50% -->
-      <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="1000" height="1" />
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="100%" valign="top" align="center">
-      <h3 align="center">Tools & Infrastructure</h3>
-      <p>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma" alt="Git Github Docker Vercel Figma" />
-        </a>
-        &nbsp;
-        <img src="https://cdn.simpleicons.org/railway/0B0D0E" width="40" height="40" alt="Railway" />
-      </p>
-      <!-- Spacer untuk memaksa lebar 100% -->
+      <!-- Spacer pembagi lebar penuh -->
       <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="1000" height="1" />
     </td>
   </tr>
